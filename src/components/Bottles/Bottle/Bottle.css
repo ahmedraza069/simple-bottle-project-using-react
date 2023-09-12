@@ -1,0 +1,12 @@
+.bottle{
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid orange;
+    border-radius: 10px;
+}
+.bottle img{
+    width: 200px;
+}
+.btn{
+    background-color: orange;
+}
